@@ -31,6 +31,14 @@ a {
     transition: all .35s;
 }
 
+/*head photo*/
+.headphoto {
+    text-align: center;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
 a:hover,
 a:focus {
     color: #fdf05f;
@@ -190,7 +198,7 @@ header {
 header .header-content {
     position: relative;
     width: 100%;
-    padding: 100px 15px;
+    padding: 7px 15px;
     text-align: center;
 }
 
@@ -237,6 +245,10 @@ header .header-content .header-content-inner p {
         margin-left: auto;
         max-width: 80%;
         font-size: 18px;
+    }
+
+    .headphoto {
+
     }
 }
 
