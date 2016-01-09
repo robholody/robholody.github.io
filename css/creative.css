@@ -74,7 +74,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 aside {
@@ -483,6 +483,11 @@ img::selection {
 img::-moz-selection {
     color: #fff;
     background: 0 0;
+}
+
+.skyline {
+    margin: auto;
+    text-align: center;
 }
 
 body {
