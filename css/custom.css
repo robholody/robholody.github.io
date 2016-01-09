@@ -8,3 +8,10 @@
   color: #333;
 /*  background-color: #333;
 */}
+
+@media (max-width: 768px) {
+#page-top > aside > div > div > div.call-to-action.col-sm-offset-2.col-sm-4 {
+  margin-bottom: 40px;
+}
+
+}
