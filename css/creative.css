@@ -39,6 +39,10 @@ a {
 /*    padding-bottom: 30px;
 */}
 
+.about {
+    text-align: justify;
+}
+
 a:hover,
 a:focus {
     color: #fdf05f;
