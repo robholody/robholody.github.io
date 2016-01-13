@@ -10,8 +10,15 @@
 */}
 
 @media (max-width: 768px) {
-#page-top > aside > div > div > div.call-to-action.col-sm-offset-2.col-sm-4 {
-  margin-bottom: 40px;
-}
+  #page-top > aside > div > div > div.call-to-action.col-sm-offset-2.col-sm-4 {
+    margin-bottom: 40px;
+  }
+
+  .headphoto {
+      text-align: center;
+      margin: auto;
+      padding-top: 50px;
+  /*    padding-bottom: 30px;
+  */}
 
 }
